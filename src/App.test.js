@@ -11,6 +11,7 @@ test("Shopping Cart title is displayed", () => {
   expect(
     screen.getByRole("heading", {
       name: /shopping cart/i,
+      level: 1,
     })
   ).toBeInTheDocument();
 });
