@@ -1,7 +1,9 @@
+
 {
   "name": "program17-shopping-cart",
   "version": "1.0.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
